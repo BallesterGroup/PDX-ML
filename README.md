@@ -1,5 +1,5 @@
 # PDX-ML
-Code and preprocessed pharmacogenomic data to predict PDX response to drug treatments
+Code and preprocessed pharmacogenomic data to predict PDX response to drug treatments by Dr Linh Nguyen (nguyencamlinh@hus.edu.vn)
 
 The scripts are in the folder ./scripts 
 The processed data files are in ./data
